@@ -1,0 +1,7 @@
+# MediaTex root directory
+mediatex_root="/foo/bar/MediaTex"
+
+
+#
+mediatek_logdir="$mediatex_root/log"
+mediatek_datadir="$mediatex_root/data"
